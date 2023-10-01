@@ -1,4 +1,0 @@
-total_items 3
-target 1
-value 1 2 3
-weight 2 3 4

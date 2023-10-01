@@ -1,4 +1,0 @@
-total_items 4
-target 40
-value 20 24 15 14
-weight 15 12 9 8
