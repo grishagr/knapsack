@@ -1,4 +1,4 @@
-/*  Final project: Knapsack 0-1
+/*  Knapsack 0-1
     File: knapsack.cpp
     Author: Grisha Hatavets
     Date: May 1, 2023
